@@ -1,42 +1,74 @@
 cff-version: 1.2.0
-message: "If you use this code, please cite it as below."
+
+message: "If you use this software, please cite it as follows."
+
 title: "ENAFyD 2024 physical activity index — scoring reconstruction and validity evaluation"
+
 type: software
+
+version: "1.0"
+
+doi: 10.5281/zenodo.21361704
+
+date-released: 2026-07-14
+
+license: MIT
+
+url: "https://github.com/Josivaldo2020/enafyd2024-pa-index-reconstruction"
+
+repository-code: "https://github.com/Josivaldo2020/enafyd2024-pa-index-reconstruction"
+
+abstract: >
+  Reproducible software implementing the complete reconstruction,
+  verification and validity evaluation of the ENAFyD 2024 physical
+  activity index scoring algorithm for children, adolescents and adults
+  in Chile.
+
 authors:
   - family-names: "de Souza-Lima"
     given-names: "Josivaldo"
     orcid: "https://orcid.org/0000-0003-4372-0836"
+
   - family-names: "Yáñez-Sepúlveda"
     given-names: "Rodrigo"
     orcid: "https://orcid.org/0000-0002-9311-6576"
+
   - family-names: "Parra-Saldías"
     given-names: "Maribel"
     orcid: "https://orcid.org/0000-0001-5488-9878"
+
   - family-names: "Duclos-Bastías"
     given-names: "Daniel"
     orcid: "https://orcid.org/0000-0002-9020-5776"
+
   - family-names: "Godoy-Cumillaf"
     given-names: "Andrés"
     orcid: "https://orcid.org/0000-0001-8613-6838"
+
   - family-names: "Merellano-Navarro"
     given-names: "Eugenio"
     orcid: "https://orcid.org/0000-0002-1557-2285"
+
   - family-names: "Bruneau-Chávez"
     given-names: "José"
     orcid: "https://orcid.org/0009-0007-0149-796X"
+
   - family-names: "Farías-Valenzuela"
     given-names: "Claudio"
     orcid: "https://orcid.org/0000-0002-4027-4415"
+
   - family-names: "Valdivia-Moral"
     given-names: "Pedro"
     orcid: "https://orcid.org/0000-0002-1905-3247"
-license: MIT
+
 keywords:
   - physical activity
+  - epidemiology
   - surveillance
-  - children and adolescents
-  - validity
-  - measurement
-  - ENAFyD
+  - reproducible research
+  - public health
+  - child health
+  - adolescent health
+  - software
+  - python
   - Chile
-repository-code: "https://github.com/Josivaldo2020/enafyd2024-pa-index-reconstruction"
