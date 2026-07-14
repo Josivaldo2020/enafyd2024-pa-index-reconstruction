@@ -44,11 +44,17 @@ module — the central cross-module contrast of the paper.
 
 ## Data availability
 
-**The microdata are not included in this repository.** The ENAFyD 2024 datasets
-are administered by the Undersecretariat of Sport of Chile
-(Subsecretaría del Deporte); access is subject to the data custodian's
-conditions. To reproduce the analyses, obtain the `.sav` files and set the
-`PATH_NNA` and `PATH_ADULTS` variables at the top of the notebook/script.
+The analyses use anonymised microdata from the *Encuesta Nacional de Actividad Física y Deporte 2024 (ENAFyD 2024)*, Ministerio del Deporte, Gobierno de Chile, obtained through a formal request under Chile's Transparency Law (Law No. 20.285).
+
+The microdata are **not redistributed** in this repository because redistribution is not permitted. Researchers wishing to reproduce the analyses may obtain access by submitting an equivalent request through Chile's Transparency Portal:
+
+https://www.portaltransparencia.cl
+
+After obtaining the datasets, update the `PATH_NNA` and `PATH_ADULTS` variables at the beginning of the notebook or Python script.
+
+The official ENAFyD 2024 executive report is available at:
+
+https://www.mindep.cl/secciones/211
 
 ## Requirements
 
